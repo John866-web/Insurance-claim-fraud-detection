@@ -1,1 +1,1 @@
-# Insurance-claim-fraud-detection
+# Insurance-claim-fraud-detection![alt text](claim_amount_analysis.png) ![alt text](confusion_matrix.png) ![alt text](feature_importance.png) ![alt text](fraud_distribution.png)
